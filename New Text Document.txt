@@ -1,0 +1,20 @@
+https://github.com/mrdoob/three.js.git
+This creates a scene with a camera, and a cube, 
+and it adds the cube to the scene. Later on i was told that one of our classes 
+makes us make a cube so this one seemed helpful/interesting.
+
+https://github.com/smogon/pokemon-showdown.git
+the public pokemon showdown repository. 
+I love pokemon so this one was a must.
+
+https://github.com/supery-chen/game-maze.git
+This one is a maze game. I want to learn how to make a lot of little games before
+I graduate so this seemed like a good place to start.
+
+https://github.com/clauadv/dbd-cheat.git
+This one is about dbd or dead by daylight, i play this game a ton and this involves
+cheats for the game affecting the killer, survior, and unlock cosmetics.
+
+https://github.com/github/gitignore.git
+This is used to populate the template of things to ignore. 
+This one was required, so not very intersting. 
